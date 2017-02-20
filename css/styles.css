@@ -1,3 +1,31 @@
 #unorderedList {
   display:none;
 }
+body {
+  background-image: url("../img/Julie.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.header {
+  background-color: #eee;
+  text-align: center;
+  margin: 0 auto;
+  height: 93px;
+  opacity: 0.8;
+
+}
+form {
+  line-height: 500%;
+}
+h1 {
+  margin:  0;
+  padding: 30px 0;
+}
+.container {
+  background-color: gray;
+  opacity: 0.87;
+}
+#submit {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
